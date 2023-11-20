@@ -2,6 +2,13 @@
 title: Legend Type
 layout: cloud
 permalink: /legendtype.html
-# see _data/config-map.csv for display options
-# do not add content to this file
+# Default subject page is configured in "_data/theme.yml"
+# leave cloud-fields as "site.data.theme.subjects-fields"
+# a cloud visualization will be added below the content in this file
+cloud-fields: site.data.theme.legendtype-fields
 ---
+
+## Browse Subjects
+
+Use this word cloud visualization to browse terms and subjects.
+Word size is determined by frequency and all words link to a corresponding collection search.
