@@ -8,7 +8,7 @@ permalink: /legendtype.html
 cloud-fields: legendtype
 ---
 
-## Browse Subjects
+## Browse Legend Types
 
-Use this word cloud visualization to browse the types of legends in the repository.
+Use this word cloud visualization to browse the types of legends in the repository. Terms in this word cloud come from the [American Folklore Society ethnographic thesaurus](https://id.loc.gov/vocabulary/ethnographicTerms.html).
 Word size is determined by frequency and all words link to a corresponding collection search.
