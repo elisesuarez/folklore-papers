@@ -4,12 +4,12 @@ creator,Creator,
 date,Date Created,
 description,Description,
 subject,Subjects,true
-legendlocation,Location
+legendlocation,Legend Location,true
 latitude,Latitude
 longitude,Longitude
-source,Source
+source,Source,
 identifier,Source Identifier,,
-type,Type,
+legendtype,Legend Type,true
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
